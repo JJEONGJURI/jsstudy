@@ -1,0 +1,59 @@
+@charset "UTF-8";
+li {list-style-type: decimal;}
+
+table,tr,td,th {
+	border : solid 3px gray;
+	border-collapse : collapse;
+	padding:8px;
+}
+
+th {
+	background: #D8D8D8;
+	font-weight: bolder;
+	font-family: Verdana;
+	font-size : 17px;
+}
+
+td {
+	background: #E9E9E9
+}
+table {
+	width: 500px;
+	height: 150px;
+	text-align: center
+}
+
+div { border-style: none;
+	  width:180px;
+	  height:40px;
+	  text-align:center;
+	  float: left;
+	  text-decoration: none;
+	  color : white;
+	  text-align: center;
+	  
+	}
+.m1{background : rgb(255, 182, 193);
+	border-radius: 20px 0 0 20px;
+	text-decoration: none;
+	text-align: center;
+	}
+.m2{background :rgb(143, 188, 139) ;
+	}
+.m3{background : rgb(135, 206, 235);
+	border-radius: 0 20px 20px 0
+	}	
+
+				 
+input[type="text"]{width : 350px; height :25px}	
+select {width : 350px; height :25px}
+
+li {font-size: 20px}
+
+
+
+
+	
+
+
+		
